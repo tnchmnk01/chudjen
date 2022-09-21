@@ -1,0 +1,17 @@
+{
+  "name": "chudjen สมัคร",
+  "main": "chudjen-th",
+  "theme": "syntax",
+  "version": "2.113.0",
+  "description": "chudjen หวยออนไลน์ ✔️ มีทุกหวย (มีเครดิตฟรี) จ่ายสูงสุด พร้อมแอดมินดูแล 24 ชั่วโมง",
+  "keywords": [
+    "chudjen",
+    "สล็อต",
+    "หวยออนไลน์"
+  ],
+  "repository": "https://github.com/tnchmnk01/chudjen",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
