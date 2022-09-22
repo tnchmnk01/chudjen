@@ -1,7 +1,7 @@
 {
   "name": "chudjen",
   "main": "./lib/chudjen",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "A short description of your package",
   "keywords": [
     "chudjen"
