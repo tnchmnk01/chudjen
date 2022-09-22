@@ -1,17 +1,18 @@
 {
-  "name": "chudjen สมัคร",
-  "main": "chudjen-th",
-  "theme": "syntax",
-  "version": "2.113.0",
-  "description": "chudjen หวยออนไลน์ ✔️ มีทุกหวย (มีเครดิตฟรี) จ่ายสูงสุด พร้อมแอดมินดูแล 24 ชั่วโมง",
+  "name": "chudjen",
+  "main": "./lib/chudjen",
+  "version": "2.0.0",
+  "description": "A short description of your package",
   "keywords": [
-    "chudjen",
-    "สล็อต",
-    "หวยออนไลน์"
+    "chudjen"
   ],
+  "activationCommands": {
+    "atom-workspace": "chudjen:toggle"
+  },
   "repository": "https://github.com/tnchmnk01/chudjen",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  }
+  },
+  "dependencies": {}
 }
