@@ -1,0 +1,18 @@
+{
+  "name": "chudjen",
+  "main": "./lib/chudjen",
+  "version": "2.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+    "chudjen"
+  ],
+  "activationCommands": {
+    "atom-workspace": "chudjen:toggle"
+  },
+  "repository": "https://github.com/tnchmnk01/chudjen",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
